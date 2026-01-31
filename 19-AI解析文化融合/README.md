@@ -46,7 +46,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/19-AI解读文学/AI解读文学.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/19-AI解析文化融合/AI解读文学.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 切换到 GPU 运行时（推荐 A100）
