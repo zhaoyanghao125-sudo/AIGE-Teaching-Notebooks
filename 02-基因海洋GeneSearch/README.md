@@ -18,7 +18,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/02-基因海洋GeneSearch/探索基因海洋GeneSearch_Lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/02-基因海洋GeneSearch/探索基因海洋GeneSearch%20Lab.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 输入要搜索的 DNA 片段（仅支持 A/C/G/T）
