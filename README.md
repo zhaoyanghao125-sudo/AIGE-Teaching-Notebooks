@@ -2,7 +2,7 @@
 
 本仓库包含19个AI+学科交叉教学案例，涵盖生物、化学、物理、数学、天文、文史等领域。
 
-##  案例目录
+## 案例目录
 
 | 序号 | 主题 | 学科领域 |
 |------|------|----------|
@@ -26,7 +26,7 @@
 | 18 | AI 重构唐诗分析 | 文史 |
 | 19 | AI 解析文化融合 | 文史 |
 
-##  使用方法
+## 使用方法
 
 ### 方法一：Colab 打开（推荐）
 
@@ -42,11 +42,57 @@ cd AIGE-Teaching-Notebooks
 jupyter notebook
 ```
 
-##  说明
+## 说明
 
 - 每个目录对应一个独立的教学案例
 - 部分案例需要 GPU 运行环境
-- 详细说明见各目录内的文档
+- 详细说明见各目录内的 README
+
+---
+
+## 开源声明与致谢
+
+本仓库的教学案例使用了以下开源项目、模型和数据集，在此表示感谢：
+
+### 模型与工具
+
+| 项目 | 来源 | 许可证 |
+|------|------|--------|
+| AlphaFold2 | DeepMind | Apache 2.0 |
+| GraphCast | Google DeepMind | Apache 2.0 |
+| GT4SD | IBM Research | MIT |
+| LightGlue | ETH Zurich (cvg) | Apache 2.0 |
+| Aeneas/Ithaca | Google DeepMind | Apache 2.0 |
+| HUST-OBC | 华中科技大学 | CC BY 4.0 |
+| EZSpecificity | Nature 论文配套 | CC BY 4.0 |
+
+### 数据集
+
+| 数据集 | 来源 | 许可证 |
+|--------|------|--------|
+| MARIDA | Kikaki et al. (2022) | CC BY 4.0 |
+| Galaxy Zoo 2 | Willett et al. (2013) | CC BY 4.0 |
+| chinese-poetry | GitHub 开源 | MIT |
+| CBDB | 哈佛/北大/中研院 | 学术使用 |
+| ERA5 | ECMWF | Copernicus License |
+| NASA GISTEMP | NASA GISS | Public Domain |
+
+### 其他资源
+
+- Sentence-Transformers (Apache 2.0)
+- Hugging Face Transformers (Apache 2.0)
+- PyTorch (BSD)
+- RDKit (BSD)
+
+## 使用须知
+
+1. **教学用途**：本仓库内容仅供教学和学术研究使用
+2. **引用要求**：如在论文或项目中使用，请引用原始数据集和模型的相关论文
+3. **许可证遵守**：使用时请遵守各项目的原始许可证条款
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE) 开源许可证。
 
 ---
 
