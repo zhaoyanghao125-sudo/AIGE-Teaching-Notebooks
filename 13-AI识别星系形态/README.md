@@ -45,7 +45,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/13-AI识别星系/AI识别星系.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/13-AI识别星系形态/AI识别星系.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 切换到 GPU 运行时（加速训练）
