@@ -43,7 +43,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/18-AI唐诗/AI唐诗.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/18-AI重构唐诗分析/AI唐诗.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 切换到 GPU 运行时（加速向量化）
