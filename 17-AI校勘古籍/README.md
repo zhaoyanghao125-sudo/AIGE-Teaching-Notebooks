@@ -39,7 +39,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/17-AI古籍校勘/AI古籍校勘.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/17-AI校勘古籍/AI古籍校勘.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 获取硅基流动 API 密钥（免费）
