@@ -41,7 +41,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/16-AI碎片修复/AI碎片修复.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/16-AI修复文物残片/AI碎片修复.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 切换到 GPU 运行时（加速推理）
