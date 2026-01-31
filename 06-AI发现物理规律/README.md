@@ -20,7 +20,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/06-AI发现物理规律/PhyE2E_AI_发现物理规律.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/06-AI发现物理规律/PhyE2E_AI%20发现物理规律.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 切换到 GPU 运行时
