@@ -18,7 +18,7 @@
 
 ## 快速开始
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/01-AlphaFold2蛋白质/中文教学版AlphaFold2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaoyanghao125-sudo/AIGE-Teaching-Notebooks/blob/main/01-AlphaFold2%E8%9B%8B%E7%99%BD%E8%B4%A8/%E4%B8%AD%E6%96%87%E6%95%99%E5%AD%A6%E7%89%88AlphaFold2.ipynb)
 
 1. 点击上方按钮在 Colab 中打开
 2. 输入蛋白质氨基酸序列
